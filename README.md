@@ -44,16 +44,17 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[N/A]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[Honestly, I did not have issues submitting this project. However, I did have an issue understanding most of the material. I am fairly new to the pre=work's computing languages, but they have a similar experience to previous computer science programs I have attended. I was not discouarged to try, but as a curious person, I was intrigued at how interesting and well-explained the pre-work was. As a result, I ended up finishing what was necessary and continued to read throughout the project to further understand how each snippet worked. I have to say, I was moved by how fun it seemed. Nevertheless, by staying persistent within the project and feeling motivated, I felt a joy towards the comepletion.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Are we going to build a website using another IDE aside from Glitch, or will Glitch be ur primary source?
+Will we create other or more similar games?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I would definitely contunue understanding all 3 computing languages, either by YouTube, online books, or simply by adding/ experimenting with additional features. ]
 
 
 
