@@ -44,6 +44,9 @@ Here's a walkthrough of implemented user stories:
 
 ![Lose](https://user-images.githubusercontent.com/56453777/112372225-c0a8b200-8c9c-11eb-95ef-d83e4fb19308.gif)
 
+![Start:Stop](https://user-images.githubusercontent.com/56453777/112373112-d66aa700-8c9d-11eb-8877-1184b8152b7f.gif)
+
+
 
 
 
