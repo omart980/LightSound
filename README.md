@@ -40,10 +40,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="![Win](https://user-images.githubusercontent.com/56453777/112371962-6e679100-8c9c-11eb-8662-5c772b2853d7.gif)
-" width=250><br>
+![Win](https://user-images.githubusercontent.com/56453777/112371962-6e679100-8c9c-11eb-8662-5c772b2853d7.gif)
 
-https://user-images.githubusercontent.com/56453777/112371553-f39e7600-8c9b-11eb-965b-066b941893ba.mov
+![Lose](https://user-images.githubusercontent.com/56453777/112372225-c0a8b200-8c9c-11eb-95ef-d83e4fb19308.gif)
 
 
 
