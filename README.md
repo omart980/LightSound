@@ -2,7 +2,7 @@
 
 **O.L.S.M.G** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **Omar**
+Submitted by: **Omar Torres**
 
 Time spent: **4** hours spent in total
 
