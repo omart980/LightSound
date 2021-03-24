@@ -39,7 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![https://github.com/omart980/LightSound/blob/glitch/ezgif.com-video-to-gif.mov]()
+![
+https://user-images.githubusercontent.com/56453777/112370677-e8971600-8c9a-11eb-83d7-99f12bde8543.mov
+
+]()
 
 
 ## Reflection Questions
