@@ -44,9 +44,12 @@ Here's a walkthrough of implemented user stories:
 
 https://user-images.githubusercontent.com/56453777/112419683-0db27580-8ce9-11eb-8d05-fb6ded6632b0.mov
 
+or, view it here https://github.com/omart980/LightSound/blob/main/Win.mov
 
+- Lose Gif 
 ![Lose](https://user-images.githubusercontent.com/56453777/112372225-c0a8b200-8c9c-11eb-95ef-d83e4fb19308.gif)
 
+- Start and Stop Gif
 ![Start:Stop](https://user-images.githubusercontent.com/56453777/112373112-d66aa700-8c9d-11eb-8877-1184b8152b7f.gif)
 
 
