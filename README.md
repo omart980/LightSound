@@ -40,7 +40,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Win](https://user-images.githubusercontent.com/56453777/112371962-6e679100-8c9c-11eb-8662-5c772b2853d7.gif)
+- Win Gif: This Gif is too long, so it could not be converted, but you can view the link here!
+
+https://user-images.githubusercontent.com/56453777/112419683-0db27580-8ce9-11eb-8d05-fb6ded6632b0.mov
+
 
 ![Lose](https://user-images.githubusercontent.com/56453777/112372225-c0a8b200-8c9c-11eb-95ef-d83e4fb19308.gif)
 
