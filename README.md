@@ -74,8 +74,8 @@ This process will repeat until the game ends.]
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording
-Side note: may need to download it](https://drive.google.com/file/d/1-329Tg3MRjrpzTy8otidMW4mmmMalKSZ/view?usp=sharing)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1-329Tg3MRjrpzTy8otidMW4mmmMalKSZ/view?usp=sharing)
+[Side note: may need to download it]
 
 
 ## License
