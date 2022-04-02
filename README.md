@@ -1,12 +1,12 @@
-# Pre-work - *Omar's Light & Sound Memory Game*
+# Pre-work - *Memory Game*
 
-**O.L.S.M.G** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Omar's Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Omar Torres**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/rare-inky-orbit)
 
 ## Required Functionality
 
@@ -22,11 +22,11 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [x] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [x] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -36,41 +36,46 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
 
-## Video Walkthrough
+## Video Walkthrough (GIF)
 
-Here's a walkthrough of implemented user stories:
-
-- Win Gif: This Gif is too long, so it could not be converted, but you can view the link here!
-
-https://user-images.githubusercontent.com/56453777/112419683-0db27580-8ce9-11eb-8d05-fb6ded6632b0.mov
-
-or, view it here https://github.com/omart980/LightSound/blob/main/Win.mov
-
-- Lose Gif 
-- ![Lose](https://user-images.githubusercontent.com/56453777/112372225-c0a8b200-8c9c-11eb-95ef-d83e4fb19308.gif)
-
-- Start and Stop Gif
-- ![Start:Stop](https://user-images.githubusercontent.com/56453777/112373112-d66aa700-8c9d-11eb-8877-1184b8152b7f.gif)
-
-
-
-
-
+If you recorded multiple GIFs for all the implemented features, you can add them here:
+![](gif1-link-here)
+![](gif2-link-here)
+![](gif3-link-here)
+![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[N/A]
+[I used StackOverflow.com to figure out some of the optional components.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[Honestly, I did not have issues submitting this project. However, I did have an issue understanding most of the material. I am fairly new to the pre=work's computing languages, but they have a similar experience to previous computer science programs I have attended. I was not discouarged to try, but as a curious person, I was intrigued at how interesting and well-explained the pre-work was. As a result, I ended up finishing what was necessary and continued to read throughout the project to further understand how each snippet worked. I have to say, I was moved by how fun it seemed. Nevertheless, by staying persistent within the project and feeling motivated, I felt a joy towards the comepletion.]
+[I think what was most challenging was figuring out how to implement the random function. I wanted to have a function where each time the 
+game resets, a new pattern would appear and start at random. It was difficult for me to implement it, but thanks to the resource listed 
+above, I was able to get some guidance and figure it out. I only needed to make a function and then make another loop statement underneath 
+the method. When I was testing this solution, it worked and I saw the results various times each time I reset the game. 
+that started the game. 
+Another challenge that I encountered was using the console log. In the beginning, I had a few errors where I did not get the clear output 
+I wanted. Instead, it was the wrong number of guesses. I had to manually look over the steps and using Stack Overflow, I was able to 
+figure out the issue. The issue I had was a sort of syntax error in one of my functions that misplaced my calling judgment. I was quickly 
+able to fix this issue by changing the output and testing if the control log output was correct.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[Are we going to build a website using another IDE aside from Glitch, or will Glitch be ur primary source?
-Will we create other or more similar games?]
+[Will we build similar applications such as this example? What kind of websites will we be doing (as in for what field)?
+Will there be a good emphasize on mobile development if needed? How many projecs per day will we be completing?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[I would definitely contunue understanding all 3 computing languages, either by YouTube, online books, or simply by adding/ experimenting with additional features. ]
+[I think I would focus on continuing to figure out the remaining optional steps. It was quite challenging to figure out
+all of the steps. Perhaps, I could use React.js to publish this application and share it to my friend's to test it. Then,
+I could gather some feedback as to what could be improved. I was also thinking that at the start of the game, the screen will turn black
+and clue in the colors for each box. Then, when the clues stop, the original screen comes back and the user must choose which box lit up.
+This process will repeat until the game ends.]
 
+
+
+## Interview Recording URL Link
+
+[My 5-minute Interview Recording
+Side note: may need to download it](https://drive.google.com/file/d/1-329Tg3MRjrpzTy8otidMW4mmmMalKSZ/view?usp=sharing)
 
 
 ## License
