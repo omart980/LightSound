@@ -40,6 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
+Disclaimer: The sound will not appear on these Gifs, but feel free to test it out on your browser!
+
 Win: For length purposes, example was stopped at 4 clues
 ![Win: For length purposes, example was stopped at 4 clues](https://github.com/omart980/LightSound/blob/main/Win(4).gif)
 
