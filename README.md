@@ -51,9 +51,11 @@ Lose
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 I used StackOverflow.com to figure out some of the optional components.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 I think what was most challenging was figuring out how to implement the random function. I wanted to have a function where each time the 
 game resets, a new pattern would appear and start at random. It was difficult for me to implement it, but thanks to the resource listed 
 above, I was able to get some guidance and figure it out. I only needed to make a function and then make another loop statement underneath 
@@ -65,10 +67,12 @@ figure out the issue. The issue I had was a sort of syntax error in one of my fu
 able to fix this issue by changing the output and testing if the control log output was correct.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 Will we build similar applications such as this example? What kind of websites will we be doing (as in for what field)?
 Will there be a good emphasize on mobile development if needed? How many projecs per day will we be completing?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 I think I would focus on continuing to figure out the remaining optional steps. It was quite challenging to figure out
 all of the steps. Perhaps, I could use React.js to publish this application and share it to my friend's to test it. Then,
 I could gather some feedback as to what could be improved. I was also thinking that at the start of the game, the screen will turn black
