@@ -39,13 +39,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-[Win: For length purposes, example was stopped at 4 clues]
+
+Win: For length purposes, example was stopped at 4 clues
 ![Win: For length purposes, example was stopped at 4 clues](https://github.com/omart980/LightSound/blob/main/Win(4).gif)
 
-[Start/Stop]
+Start/Stop
 ![Start/ Stop](https://github.com/omart980/LightSound/blob/main/Start:Stop%20.gif)
 
-[Lose]
+Lose
 ![Lose][https://github.com/omart980/LightSound/blob/main/Lose%20.gif]
 
 ## Reflection Questions
