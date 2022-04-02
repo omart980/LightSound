@@ -47,7 +47,7 @@ Start/Stop
 ![Start/ Stop](https://github.com/omart980/LightSound/blob/main/Start:Stop%20.gif)
 
 Lose
-![Lose][https://github.com/omart980/LightSound/blob/main/Lose%20.gif]
+![Lose](https://github.com/omart980/LightSound/blob/main/Lose%20.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
